@@ -176,8 +176,11 @@ AgriML/
 ├── dataset/                           # Dataset repository
 │   ├── Crop Recommendation dataset.csv # 2,200 rows x 8 columns tabular dataset
 │   └── PlantDoc-Dataset/              # Real-world field leaf pathology dataset
-│       ├── train/                     # 2,310 field training images (27 classes)
-│       └── test/                      # 242 field testing images
+│   |   ├── train/                     # 2,310 field training images (27 classes)
+│   |   └── test/                      # 242 field testing images
+│   └── PlantVillage/                  # 54,305 lab images across 38 classes
+│       ├── train/                     
+│       └── val/                       
 │
 ├── notebooks/                         # Interactive Jupyter training and evaluation notebooks
 │   ├── Crop Recommendation.ipynb      # 5-Fold Stratified CV training with multi-metric analysis
@@ -215,7 +218,7 @@ AgriML/
     ├── leaf_disease_model_final.pth   # 5-Fold CV MobileNetV3-Large (60.34% accuracy)
     └── plantvillage_pretrained.pth    # Stage 1 Pretrained MobileNetV3-Large (99.59% accuracy)
 ```
-
+Datasets Link: https://drive.google.com/drive/folders/1JA7zK4TUY3whnYB2bPlvOmruqnPhGxcs?usp=drive_link
 ---
 
 ## Module 1: Crop Recommendation System
