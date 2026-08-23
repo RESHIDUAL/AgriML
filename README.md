@@ -554,4 +554,4 @@ Returns a benchmark test image corresponding to a requested target class name.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
