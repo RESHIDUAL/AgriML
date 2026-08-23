@@ -1,6 +1,6 @@
 # ML-based Crop Recommendation and Plant Disease Detection
 
-## Project Classification & Academic Metadata
+## Project Classification
 
 | Parameter | Specification | Contextual Description |
 |:---|:---|:---|
