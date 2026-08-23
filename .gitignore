@@ -1,0 +1,39 @@
+# Datasets (too large for git)
+PlantVillage/
+PlantDoc-Dataset/
+
+# Model weights
+weights/
+*.pth
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+runs/
+
+.ipynb_checkpoints/
