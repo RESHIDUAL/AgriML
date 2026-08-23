@@ -9,7 +9,6 @@
 | **Geographic Scope (LRNG)** | **Regional Needs (State / Province Level)** | Designed specifically for regional agro-climatic zones, addressing localized soil nutrient profiles (N, P, K, pH) and regional plant pathologies across farming belts in India. |
 | **Cross-Cutting Issues (CC)** | **Sustainability & Environment** | Prevents chemical degradation of arable land by computing optimal site-specific fertilizer requirements; minimizes broad-spectrum toxic pesticide runoff by enabling early-stage targeted disease identification. |
 | **UN Sustainable Development Goal (SDG)** | **SDG 2: Zero Hunger (Target 2.4)** | *"Ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, and improve land and soil quality."* |
-| **Project Lifecycle** | **Phase 1**: Domain Use Case Identification & Literature Review <br> **Phase 2**: Multi-Stage Model Architecture, 5-Fold Stratified Cross-Validation, Real-World Field Validation & Deployment. | Systematic research and implementation lifecycle bridging academic transfer learning with production web deployment. |
 
 ---
 
