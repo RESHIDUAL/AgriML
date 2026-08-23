@@ -221,6 +221,15 @@ AgriML/
 Datasets Link: https://drive.google.com/drive/folders/1JA7zK4TUY3whnYB2bPlvOmruqnPhGxcs?usp=drive_link
 ---
 
+## View Training Codes Notebook
+
+| Notebook | Description | Link |
+|:---|:---|:---:|
+| **Crop Recommendation.ipynb** | 5-Fold Stratified CV training with multi-metric analysis for the crop recommendation model | [View Notebook](notebooks/Crop%20Recommendation.ipynb) |
+| **PlantVillage Pretraining.ipynb** | Stage 1 pretraining on 54,305 lab images (38 classes) using MobileNetV3-Large | [View Notebook](notebooks/PlantVillage%20Pretraining.ipynb) |
+| **PlantDoc 5 Fold FineTuning.ipynb** | Stage 2 5-Fold Stratified fine-tuning on 2,552 real-world field images (27 classes) | [View Notebook](notebooks/PlantDoc%205%20Fold%20FineTuning.ipynb) |
+---
+
 ## Module 1: Crop Recommendation System
 
 ### Dataset Specifications
